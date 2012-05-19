@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e" format="1">
+  <advance width="1021"/>
+  <unicode hex="0065"/>
+  <outline>
+    <contour>
+      <point x="302.80871582" y="582.315429688" type="line" smooth="yes"/>
+      <point x="333.73538208" y="691.770202637"/>
+      <point x="433.613464355" y="761.0"/>
+      <point x="545.0" y="761.0" type="curve" smooth="yes"/>
+      <point x="644.291992188" y="761.0"/>
+      <point x="735.03112793" y="699.102416992"/>
+      <point x="750.551818848" y="573.3515625" type="curve" smooth="yes"/>
+      <point x="758.866821289" y="506.0" type="line"/>
+      <point x="281.24420166" y="506.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="290.349151611" y="376.365966797" type="line"/>
+      <point x="274.70401001" y="449.0" type="line"/>
+      <point x="858.000030518" y="449.0" type="line"/>
+      <point x="858.000030518" y="455.702148438" type="line" smooth="yes"/>
+      <point x="858.000030518" y="683.689147949"/>
+      <point x="759.776397705" y="843.0"/>
+      <point x="517.000030518" y="843.0" type="curve" smooth="yes"/>
+      <point x="287.860321045" y="843.0"/>
+      <point x="130.000030518" y="662.919494629"/>
+      <point x="130.000030518" y="452.684570312" type="curve" smooth="yes"/>
+      <point x="130.000030518" y="172.948242188"/>
+      <point x="358.183502197" y="32.9999847412"/>
+      <point x="600.000030518" y="32.9999847412" type="curve" smooth="yes"/>
+      <point x="686.895721436" y="32.9999847412"/>
+      <point x="772.813323975" y="53.8344573975"/>
+      <point x="847.000030518" y="91.6712036133" type="curve"/>
+      <point x="847.000030518" y="182.357925415" type="line"/>
+      <point x="784.447784424" y="155.396148682"/>
+      <point x="707.148284912" y="135.999984741"/>
+      <point x="624.000030518" y="135.999984741" type="curve" smooth="yes"/>
+      <point x="485.662445068" y="135.999984741"/>
+      <point x="329.709869385" y="193.635452271"/>
+      <point x="290.349182129" y="376.365951538" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>e</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1021</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

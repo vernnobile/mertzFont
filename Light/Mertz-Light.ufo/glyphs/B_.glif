@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="1">
+  <advance width="1116"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="534" y="60" type="line" smooth="yes"/>
+      <point x="795.104187012" y="60"/>
+      <point x="970.0" y="167.21005249"/>
+      <point x="970.0" y="380.0" type="curve" smooth="yes"/>
+      <point x="970.0" y="535.042724609"/>
+      <point x="895.018615723" y="589.967407227"/>
+      <point x="784.306945801" y="647.82019043" type="curve" smooth="yes"/>
+      <point x="673.773132324" y="705.582092285" type="line"/>
+      <point x="787.889404297" y="755.897460938" type="line" smooth="yes"/>
+      <point x="854.522216797" y="785.277954102"/>
+      <point x="903.0" y="832.56427002"/>
+      <point x="903.0" y="920.0" type="curve" smooth="yes"/>
+      <point x="903.0" y="1093.43664551"/>
+      <point x="786.289978027" y="1181.0"/>
+      <point x="504.0" y="1181.0" type="curve" smooth="yes"/>
+      <point x="198.0" y="1181.0" type="line"/>
+      <point x="198.0" y="60.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="378.0" y="134.0" type="line"/>
+      <point x="378.0" y="657.0" type="line"/>
+      <point x="515.0" y="657.0" type="line" smooth="yes"/>
+      <point x="681.906311035" y="657.0"/>
+      <point x="806.0" y="544.538024902"/>
+      <point x="806.0" y="393.0" type="curve" smooth="yes"/>
+      <point x="806.0" y="257.817718506"/>
+      <point x="706.093933105" y="134.0"/>
+      <point x="508.0" y="134.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="769.0" y="901.0" type="curve" smooth="yes"/>
+      <point x="769.0" y="707.674621582"/>
+      <point x="540.126953125" y="701.0"/>
+      <point x="464.0" y="701.0" type="curve" smooth="yes"/>
+      <point x="380.0" y="701.0" type="line"/>
+      <point x="380.0" y="1108.0" type="line"/>
+      <point x="479.0" y="1108.0" type="line" smooth="yes"/>
+      <point x="657.30291748" y="1108.0"/>
+      <point x="769.0" y="1047.95385742"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>B</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1116</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

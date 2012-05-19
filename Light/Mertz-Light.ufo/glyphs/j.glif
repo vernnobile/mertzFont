@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="577"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="408.284179688" y="1185.0" type="curve" smooth="yes"/>
+      <point x="408.284179688" y="1237.59606934"/>
+      <point x="370.680175781" y="1288.0"/>
+      <point x="299.284179688" y="1288.0" type="curve" smooth="yes"/>
+      <point x="230.08795166" y="1288.0"/>
+      <point x="189.284179688" y="1237.22338867"/>
+      <point x="189.284179688" y="1185.0" type="curve" smooth="yes"/>
+      <point x="189.284179688" y="1130.62451172"/>
+      <point x="230.12638855" y="1079.0"/>
+      <point x="299.284179688" y="1079.0" type="curve" smooth="yes"/>
+      <point x="369.72857666" y="1079.0"/>
+      <point x="408.284179688" y="1130.53662109"/>
+    </contour>
+    <contour>
+      <point x="378.284179688" y="-79.0" type="curve" smooth="yes"/>
+      <point x="378.284179688" y="764.0" type="line"/>
+      <point x="221.284179688" y="764.0" type="line"/>
+      <point x="221.284179688" y="-46.380859375" type="line" smooth="yes"/>
+      <point x="221.284179688" y="-87.4787597656"/>
+      <point x="225.018875122" y="-134.386688232"/>
+      <point x="189.744628906" y="-175.16809082" type="curve" smooth="yes"/>
+      <point x="155.213485718" y="-215.090377808"/>
+      <point x="107.455291748" y="-220.119354248"/>
+      <point x="54.4649505615" y="-222.831604004" type="curve"/>
+      <point x="79.795135498" y="-345.07635498" type="line"/>
+      <point x="346.434417725" y="-331.27355957"/>
+      <point x="378.284179688" y="-182.345108032"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>j</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>577</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

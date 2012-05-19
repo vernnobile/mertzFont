@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek" format="1">
+  <advance width="995"/>
+  <unicode hex="0105"/>
+  <outline>
+    <contour>
+      <point x="792" y="-7" type="line"/>
+      <point x="683" y="-99"/>
+      <point x="642" y="-173"/>
+      <point x="642" y="-232" type="curve" smooth="yes"/>
+      <point x="642" y="-306"/>
+      <point x="707" y="-355"/>
+      <point x="782" y="-383" type="curve"/>
+      <point x="851" y="-325" type="line"/>
+      <point x="786" y="-270"/>
+      <point x="762" y="-221"/>
+      <point x="762" y="-177" type="curve" smooth="yes"/>
+      <point x="762" y="-116"/>
+      <point x="807" y="-63"/>
+      <point x="851" y="-7" type="curve"/>
+    </contour>
+    <contour>
+      <point x="600.0" y="548.643554688" type="curve" smooth="yes"/>
+      <point x="600" y="481.672851562" type="line"/>
+      <point x="599" y="481.43359375" type="line"/>
+      <point x="599" y="213.052734375" type="line"/>
+      <point x="639.018554688" y="136.981445312" type="line" smooth="yes"/>
+      <point x="676.389648438" y="65.9423828125"/>
+      <point x="765.147460938" y="46.24609375"/>
+      <point x="822.063476562" y="42.7265625" type="curve"/>
+      <point x="860.6796875" y="150.201171875" type="line"/>
+      <point x="787.748046875" y="170.407226562"/>
+      <point x="749.74609375" y="237.358398438"/>
+      <point x="750.0" y="320.672851562" type="curve" smooth="yes"/>
+      <point x="750.0" y="601.54296875" type="line" smooth="yes"/>
+      <point x="750.0" y="778.399414062"/>
+      <point x="604.399414062" y="844.0"/>
+      <point x="461.0" y="844.0" type="curve" smooth="yes"/>
+      <point x="324.873046875" y="844.0"/>
+      <point x="220.771484375" y="799.168945312"/>
+      <point x="167.84765625" y="769.484375" type="curve"/>
+      <point x="204.41796875" y="667.610351562" type="line"/>
+      <point x="262.016601562" y="697.051757812"/>
+      <point x="346.5546875" y="736.418945312"/>
+      <point x="432.157226562" y="736.418945312" type="curve" smooth="yes"/>
+      <point x="520.506835938" y="736.418945312"/>
+      <point x="600.0" y="676.438476562"/>
+    </contour>
+    <contour>
+      <point x="599.0" y="488.40625" type="line"/>
+      <point x="599.0" y="481.43359375" type="line"/>
+      <point x="534.237304688" y="465.989257812" type="line"/>
+    </contour>
+    <contour>
+      <point x="534.237304688" y="465.989257812" type="curve"/>
+      <point x="455.423828125" y="447.192382812" type="line" smooth="yes"/>
+      <point x="229.825195312" y="394.515625"/>
+      <point x="150.0" y="302.744140625"/>
+      <point x="150.0" y="229.736328125" type="curve" smooth="yes"/>
+      <point x="150.0" y="104.990234375"/>
+      <point x="243.629882812" y="35.0"/>
+      <point x="354.0" y="35.0" type="curve" smooth="yes"/>
+      <point x="410.048828125" y="35.0"/>
+      <point x="489.3828125" y="68.2119140625"/>
+      <point x="527.309570312" y="127.624023438" type="curve"/>
+      <point x="495.60546875" y="108.2421875"/>
+      <point x="459.504882812" y="96.9150390625"/>
+      <point x="423.4140625" y="96.9150390625" type="curve" smooth="yes"/>
+      <point x="342.498046875" y="96.9150390625"/>
+      <point x="299.0" y="171.993164062"/>
+      <point x="299.0" y="243.0" type="curve" smooth="yes"/>
+      <point x="299.0" y="335.756835938"/>
+      <point x="388.763671875" y="415.6328125"/>
+    </contour>
+    <contour>
+      <point x="599.0" y="195.248046875" type="line"/>
+      <point x="585.67578125" y="178.751953125" type="line" smooth="yes"/>
+      <point x="569.348632812" y="158.538085938"/>
+      <point x="549.396484375" y="141.126953125"/>
+      <point x="527.309570312" y="127.624023438" type="curve"/>
+      <point x="529.336914062" y="130.80078125"/>
+      <point x="531.24609375" y="134.051757812"/>
+      <point x="533.02734375" y="137.376953125" type="curve" smooth="yes"/>
+      <point x="586.396484375" y="237.01171875" type="line"/>
+      <point x="599.0" y="213.052734375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>aogonek</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>995</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
