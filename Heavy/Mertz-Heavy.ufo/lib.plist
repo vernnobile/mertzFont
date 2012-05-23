@@ -17,8 +17,23 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>com.typemytype.robofont.back.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>1.0</real>
+		<real>0.0</real>
+		<real>0.69999999999999996</real>
+	</array>
+	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+	<array>
+		<real>0.5</real>
+		<real>0.0</real>
+		<real>0.5</real>
+		<real>0.69999999999999996</real>
+	</array>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
+		<string>back</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
@@ -184,7 +199,6 @@
 				<string>asterisk</string>
 				<string>comma</string>
 				<string>period</string>
-				<string>slash</string>
 				<string>colon</string>
 				<string>semicolon</string>
 				<string>question</string>
@@ -396,7 +410,6 @@
 		<string>asterisk</string>
 		<string>comma</string>
 		<string>period</string>
-		<string>slash</string>
 		<string>colon</string>
 		<string>semicolon</string>
 		<string>question</string>
@@ -444,6 +457,7 @@
 		<string>onesuperior</string>
 		<string>threesuperior</string>
 		<string>twosuperior</string>
+		<string>slash</string>
 	</array>
 </dict>
 </plist>
