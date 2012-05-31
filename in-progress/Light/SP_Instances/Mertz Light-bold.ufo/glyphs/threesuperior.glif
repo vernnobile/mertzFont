@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="1">
+  <advance width="978"/>
+  <unicode hex="00B3"/>
+  <outline>
+    <component base="three" xOffset="211" yOffset="424" xScale="0.67" yScale="0.67"/>
+  </outline>
+</glyph>

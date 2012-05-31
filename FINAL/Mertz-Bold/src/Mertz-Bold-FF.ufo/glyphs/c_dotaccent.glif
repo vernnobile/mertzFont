@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Cdotaccent" format="1">
+  <advance width="1287"/>
+  <unicode hex="010A"/>
+  <outline>
+    <component base="C"/>
+    <component base="uni0307" xOffset="521" yOffset="1274"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

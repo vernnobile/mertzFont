@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="percent" format="1">
+  <advance width="1510"/>
+  <unicode hex="0025"/>
+  <outline>
+    <contour>
+      <point x="295" y="0" type="line"/>
+      <point x="492" y="0" type="line"/>
+      <point x="1210" y="1241" type="line"/>
+      <point x="1012" y="1241" type="line"/>
+    </contour>
+    <component base="o" xOffset="22" yOffset="713" xScale="0.60" yScale="0.60"/>
+    <component base="o" xOffset="816" yOffset="13" xScale="0.60" yScale="0.60"/>
+  </outline>
+</glyph>

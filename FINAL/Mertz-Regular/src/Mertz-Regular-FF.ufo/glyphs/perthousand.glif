@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="1">
+  <advance width="2047"/>
+  <unicode hex="2030"/>
+  <outline>
+    <component base="o" xScale="0.6" yScale="0.6" xOffset="6.7998" yOffset="737"/>
+    <component base="o" xScale="0.6" yScale="0.6" xOffset="733.8" yOffset="11"/>
+    <component base="o" xScale="0.6" yScale="0.6" xOffset="1369.8" yOffset="11"/>
+    <contour>
+      <point x="300.8" y="0" type="line"/>
+      <point x="1019.8" y="1241" type="line"/>
+      <point x="1102.8" y="1241" type="line"/>
+      <point x="381.8" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

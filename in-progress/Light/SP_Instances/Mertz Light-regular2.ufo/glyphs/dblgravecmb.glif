@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dblgravecmb" format="1">
+  <advance width="651"/>
+  <unicode hex="030F"/>
+  <outline>
+    <component base="acute" xOffset="442" xScale="-1"/>
+    <component base="acute" xOffset="650" xScale="-1"/>
+    <contour>
+      <point x="325" y="824" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

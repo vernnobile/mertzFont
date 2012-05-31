@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M" format="1">
+  <advance width="1667"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="834" y="-7" type="line"/>
+      <point x="1253" y="693" type="line"/>
+      <point x="1362" y="0" type="line"/>
+      <point x="1591" y="0" type="line"/>
+      <point x="1374" y="1298" type="line"/>
+      <point x="834" y="384" type="line"/>
+      <point x="294" y="1298" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="305" y="0" type="line"/>
+      <point x="415" y="693" type="line"/>
+    </contour>
+  </outline>
+</glyph>

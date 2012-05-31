@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu" format="1">
+  <advance width="1131"/>
+  <unicode hex="03BC"/>
+  <outline>
+    <contour>
+      <point x="125" y="-248" type="line"/>
+      <point x="352" y="-248" type="line"/>
+      <point x="352" y="242" type="line"/>
+      <point x="125" y="299" type="line"/>
+    </contour>
+    <component base="u" xOffset="1"/>
+  </outline>
+</glyph>

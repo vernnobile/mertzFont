@@ -1,0 +1,5 @@
+‘Mertz’ is a design based upon the mixing aspects of a number of early Twentieth Century typefaces, specifically Metro, Tempo, Vogue and Nobel. The aim is to draw the uppercase characters fairly close to the old designs, to create a free webfont highly suited to ‘all caps’ headlines, but to derivate from the original lowercases to create a more contemporary lowercase.
+
+Metro was first designed for Linotype’s machines in 1927, by William Dwiggins, as a counter to the European Modern geometric faces such as Futura and Kabel. Likewise, Tempo was designed in 1931 for the Ludlow Foundry by Robert Hunter Middleton. Vogue, published in 1930, was the Intertype version of this ‘modernist’ face, and Nobel was a variant from Amsterdam type Foundry. ‘Verlag’, a font published in 2006 by Hoefler & Frere-Jones is a contemporary example of the re-mixing together of some of these older designs.
+
+Mertz has been designed to be used freely across the internet by web browsers on desktop computers, laptops and mobile devices.
