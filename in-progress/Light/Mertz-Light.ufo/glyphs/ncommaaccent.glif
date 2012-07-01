@@ -3,7 +3,36 @@
   <advance width="1101"/>
   <unicode hex="0146"/>
   <outline>
-    <component base="comma" xOffset="333.500" yOffset="-323"/>
+    <component base="comma" xOffset="333.5" yOffset="-323"/>
     <component base="n"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ncommaaccent</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>1101</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -91,6 +91,10 @@
 	<dict>
 		<key>J</key>
 		<integer>-34</integer>
+		<key>T</key>
+		<integer>-47</integer>
+		<key>X</key>
+		<integer>-72</integer>
 		<key>Y</key>
 		<integer>-50</integer>
 	</dict>
@@ -234,6 +238,11 @@
 		<integer>-44</integer>
 		<key>z</key>
 		<integer>-33</integer>
+	</dict>
+	<key>X</key>
+	<dict>
+		<key>O</key>
+		<integer>-50</integer>
 	</dict>
 	<key>Y</key>
 	<dict>
