@@ -3,10 +3,10 @@
   <advance width="834"/>
   <unicode hex="030F"/>
   <outline>
-    <component base="acute" xOffset="594" xScale="-1"/>
-    <component base="acute" xOffset="902" xScale="-1"/>
     <contour>
       <point x="485.932" y="884" type="move" name="_top"/>
     </contour>
+    <component base="acute" xScale="-1" xOffset="594"/>
+    <component base="acute" xScale="-1" xOffset="902"/>
   </outline>
 </glyph>

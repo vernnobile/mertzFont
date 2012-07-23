@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="percent" format="1">
-  <advance width="1572"/>
+  <advance width="1126"/>
   <unicode hex="0025"/>
   <outline>
     <contour>
-      <point x="293" y="0" type="line"/>
-      <point x="554" y="0" type="line"/>
-      <point x="1271" y="1241" type="line"/>
-      <point x="1008" y="1241" type="line"/>
+      <point x="1060" y="1241" type="line"/>
+      <point x="797" y="1241" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="343" y="0" type="line"/>
     </contour>
     <component base="o" xScale="0.6" yScale="0.6" xOffset="32" yOffset="700"/>
     <component base="o" xScale="0.6" yScale="0.6" xOffset="862" yOffset="14"/>

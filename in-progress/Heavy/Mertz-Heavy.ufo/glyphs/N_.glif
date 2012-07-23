@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="N" format="1">
-  <advance width="1343"/>
+  <advance width="1327"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="1204" y="-58" type="line"/>
-      <point x="1204" y="1241" type="line"/>
-      <point x="896" y="1241" type="line"/>
-      <point x="896" y="603" type="line"/>
-      <point x="139" y="1311" type="line"/>
-      <point x="139" y="0" type="line"/>
-      <point x="447" y="0" type="line"/>
-      <point x="447" y="643" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="439" y="643" type="line"/>
+      <point x="1196" y="-58" type="line"/>
+      <point x="1196" y="1241" type="line"/>
+      <point x="888" y="1241" type="line"/>
+      <point x="888" y="603" type="line"/>
+      <point x="131" y="1311" type="line"/>
+      <point x="131" y="0" type="line"/>
     </contour>
     <contour>
       <point x="673" y="1241" type="move" name="top"/>

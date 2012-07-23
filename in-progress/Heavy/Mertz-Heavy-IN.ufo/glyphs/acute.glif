@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acute" format="1">
+  <advance width="525"/>
+  <unicode hex="00B4"/>
+  <outline>
+    <contour>
+      <point x="106.438" y="89.5977" type="curve" smooth="yes"/>
+      <point x="119.087" y="89.5977"/>
+      <point x="133.422" y="95.7734"/>
+      <point x="146.676" y="110" type="curve" smooth="yes"/>
+      <point x="405.676" y="388" type="line" smooth="yes"/>
+      <point x="440.128" y="424.979"/>
+      <point x="454.136" y="462.149"/>
+      <point x="454.136" y="494.491" type="curve" smooth="yes"/>
+      <point x="454.136" y="551.171"/>
+      <point x="411.111" y="593.02"/>
+      <point x="359.714" y="593.02" type="curve" smooth="yes"/>
+      <point x="317.232" y="593.02"/>
+      <point x="269.031" y="564.432"/>
+      <point x="234.676" y="492" type="curve" smooth="yes"/>
+      <point x="77.6758" y="161" type="line" smooth="yes"/>
+      <point x="72.3418" y="149.755"/>
+      <point x="70" y="139.268"/>
+      <point x="70" y="129.98" type="curve" smooth="yes"/>
+      <point x="70" y="105.687"/>
+      <point x="86.0234" y="89.5977"/>
+    </contour>
+    <contour>
+      <point x="262.068" y="884" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

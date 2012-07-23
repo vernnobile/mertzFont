@@ -71,7 +71,7 @@
 	<key>openTypeOS2SuperscriptXOffset</key>
 	<integer>0</integer>
 	<key>openTypeOS2SuperscriptXSize</key>
-	<real>700</real>
+	<real>700.0</real>
 	<key>openTypeOS2SuperscriptYOffset</key>
 	<integer>477</integer>
 	<key>openTypeOS2SuperscriptYSize</key>
